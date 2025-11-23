@@ -319,10 +319,10 @@
 
 - [四种权限修饰符的权限范围](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#四种权限修饰符的权限范围)
 - [四种权限修饰符](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#四种权限修饰符)
-  - [public公共的](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#public公共的)
-  - [proteted受保护的](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#proteted受保护的)
+  - [public（公共的）](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#public公共的)
+  - [proteted（受保护的）](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#proteted受保护的)
   - [默认](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#默认)
-  - [private私有的](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#private私有的)
+  - [private（私有的）](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#private私有的)
 
 - [final关键字](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#final关键字)
   - [final 修饰类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#final修饰类)
