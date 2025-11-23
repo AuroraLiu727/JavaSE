@@ -266,13 +266,7 @@
 <details>
 <summary>13_继承与抽象综合案例</summary>
 
-- [案例需求](https://github.com/aurora-byte-x/JavaSE/blob/main/document/13_继承与抽象的综合案例.md#某it公司有多名员工按照员工负责的工作不同进行了部门的划分研发部维护部)
-- [类结构分类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/13_继承与抽象的综合案例.md#注意)
-- [抽象父类 Employee](https://github.com/aurora-byte-x/JavaSE/blob/main/document/13_继承与抽象的综合案例.md#employee类抽象类)
-- [Developer / Maintainer 抽象类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/13_继承与抽象的综合案例.md#developer类抽象类)
-- [JavaEE / Android 实现](https://github.com/aurora-byte-x/JavaSE/blob/main/document/13_继承与抽象的综合案例.md#javaee类)
-- [Network / Hardware 实现](https://github.com/aurora-byte-x/JavaSE/blob/main/document/13_继承与抽象的综合案例.md#network类)
-- [测试类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/13_继承与抽象的综合案例.md#test测试类)
+- [继承与抽象综合案例](https://github.com/aurora-byte-x/JavaSE/blob/main/document/13_继承与抽象的综合案例.md)
 
 </details>
 
@@ -282,17 +276,17 @@
 
 - [接口的介绍](https://github.com/aurora-byte-x/JavaSE/blob/main/document/14_接口.md#接口的介绍)
 - [接口的定义与使用](https://github.com/aurora-byte-x/JavaSE/blob/main/document/14_接口.md#接口的定义及使用)
-- [实现接口](https://github.com/aurora-byte-x/JavaSE/blob/main/document/14_接口.md#实现类实现接口)
+- [实现类实现接口](https://github.com/aurora-byte-x/JavaSE/blob/main/document/14_接口.md#实现类实现接口)
 - [接口中的成员](https://github.com/aurora-byte-x/JavaSE/blob/main/document/14_接口.md#接口中的成员)
   - [抽象方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/14_接口.md#抽象方法)
   - [默认方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/14_接口.md#默认方法)
   - [静态方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/14_接口.md#静态方法)
   - [成员变量](https://github.com/aurora-byte-x/JavaSE/blob/main/document/14_接口.md#成员变量)
 - [接口的特点](https://github.com/aurora-byte-x/JavaSE/blob/main/document/14_接口.md#接口的特点)
-  - [接口多继承](https://github.com/aurora-byte-x/JavaSE/blob/main/document/14_接口.md#接口的多继承)
-  - [类多实现](https://github.com/aurora-byte-x/JavaSE/blob/main/document/14_接口.md#接口的多实现)
-  - [类继承 + 多接口实现](https://github.com/aurora-byte-x/JavaSE/blob/main/document/14_接口.md#继承父类实现接口)
-- [接口 vs 抽象类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/14_接口.md#接口和抽象类的区别)
+  - [接口的多继承](https://github.com/aurora-byte-x/JavaSE/blob/main/document/14_接口.md#接口的多继承)
+  - [接口的多实现](https://github.com/aurora-byte-x/JavaSE/blob/main/document/14_接口.md#接口的多实现)
+  - [继承父类实现接口](https://github.com/aurora-byte-x/JavaSE/blob/main/document/14_接口.md#继承父类实现接口)
+- [接口和抽象类的区别](https://github.com/aurora-byte-x/JavaSE/blob/main/document/14_接口.md#接口和抽象类的区别)
 
 </details>
 
@@ -302,11 +296,11 @@
 
 - [多态的介绍](https://github.com/aurora-byte-x/JavaSE/blob/main/document/15_多态.md#多态的介绍)
 - [为什么要有多态](https://github.com/aurora-byte-x/JavaSE/blob/main/document/15_多态.md#为什么要有多态)
-- [成员变量与方法访问特点](https://github.com/aurora-byte-x/JavaSE/blob/main/document/15_多态.md#多态条件下成员变量和成员方法访问的特点)
+- [多态条件下成员变量和成员方法访问的特点](https://github.com/aurora-byte-x/JavaSE/blob/main/document/15_多态.md#多态条件下成员变量和成员方法访问的特点)
 - [多态中的转型](https://github.com/aurora-byte-x/JavaSE/blob/main/document/15_多态.md#多态中的转型)
   - [向上转型](https://github.com/aurora-byte-x/JavaSE/blob/main/document/15_多态.md#向上转型子类父类)
   - [向下转型](https://github.com/aurora-byte-x/JavaSE/blob/main/document/15_多态.md#向下转型)
-  - [instanceof 预防异常](https://github.com/aurora-byte-x/JavaSE/blob/main/document/15_多态.md#预防转型异常)
+  - [预防转型异常](https://github.com/aurora-byte-x/JavaSE/blob/main/document/15_多态.md#预防转型异常)
 
 </details>
 
