@@ -201,18 +201,18 @@
 <details>
 <summary>09_封装</summary>
 
-- [封装介绍](https://github.com/aurora-byte-x/JavaSE/blob/main/document/09_封装.md#封装的介绍及使用)
+- [封装的介绍及使用](https://github.com/aurora-byte-x/JavaSE/blob/main/document/09_封装.md#封装的介绍及使用)
 
-- [this 关键字](https://github.com/aurora-byte-x/JavaSE/blob/main/document/09_封装.md#this的介绍)
+- [this的介绍](https://github.com/aurora-byte-x/JavaSE/blob/main/document/09_封装.md#this的介绍)
 
 - [构造方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/09_封装.md#构造方法)
-  - [无参构造](https://github.com/aurora-byte-x/JavaSE/blob/main/document/09_封装.md#空参构造)
+  - [空参构造](https://github.com/aurora-byte-x/JavaSE/blob/main/document/09_封装.md#空参构造)
   - [有参构造](https://github.com/aurora-byte-x/JavaSE/blob/main/document/09_封装.md#有参构造)
   - [构造方法示例](https://github.com/aurora-byte-x/JavaSE/blob/main/document/09_封装.md#构造方法示例)
 
-- [JavaBean 标准](https://github.com/aurora-byte-x/JavaSE/blob/main/document/09_封装.md#标准javabean)
-  - [JavaBean 定义](https://github.com/aurora-byte-x/JavaSE/blob/main/document/09_封装.md#javabean介绍)
-  - [快捷生成构造/get/set](https://github.com/aurora-byte-x/JavaSE/blob/main/document/09_封装.md#生成javabean的快捷键)
+- [标准javabean](https://github.com/aurora-byte-x/JavaSE/blob/main/document/09_封装.md#标准javabean)
+  - [javabean介绍](https://github.com/aurora-byte-x/JavaSE/blob/main/document/09_封装.md#javabean介绍)
+  - [生成javabean的快捷键](https://github.com/aurora-byte-x/JavaSE/blob/main/document/09_封装.md#生成javabean的快捷键)
 
 </details>
 
@@ -240,16 +240,16 @@
 <summary>11_继承</summary>
 
 - [概述](https://github.com/aurora-byte-x/JavaSE/blob/main/document/11_继承.md#概述)
-- [继承的使用](https://github.com/aurora-byte-x/JavaSE/blob/main/document/11_继承.md#继承如何使用)
-- [成员变量访问特点](https://github.com/aurora-byte-x/JavaSE/blob/main/document/11_继承.md#成员变量)
-- [成员方法访问特点](https://github.com/aurora-byte-x/JavaSE/blob/main/document/11_继承.md#成员方法)
-- [new 的类型与声明类型不一致](https://github.com/aurora-byte-x/JavaSE/blob/main/document/11_继承.md#当new的对象类型和声明的对象类型不一致时)
+- [继承如何使用](https://github.com/aurora-byte-x/JavaSE/blob/main/document/11_继承.md#继承如何使用)
+- [成员变量](https://github.com/aurora-byte-x/JavaSE/blob/main/document/11_继承.md#成员变量)
+- [成员方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/11_继承.md#成员方法)
+- [当new的对象类型和声明的对象类型不一致时](https://github.com/aurora-byte-x/JavaSE/blob/main/document/11_继承.md#当new的对象类型和声明的对象类型不一致时)
 - [方法的重写](https://github.com/aurora-byte-x/JavaSE/blob/main/document/11_继承.md#方法的重写)
 - [super 和 this](https://github.com/aurora-byte-x/JavaSE/blob/main/document/11_继承.md#super和this)
   - [super 的使用](https://github.com/aurora-byte-x/JavaSE/blob/main/document/11_继承.md#super的使用)
-  - [this 的使用](https://github.com/aurora-byte-x/JavaSE/blob/main/document/11_继承.md#this的具体使用)
+  - [this的具体使用](https://github.com/aurora-byte-x/JavaSE/blob/main/document/11_继承.md#this的具体使用)
 - [继承的特点](https://github.com/aurora-byte-x/JavaSE/blob/main/document/11_继承.md#继承的特点)
-- [private 属性如何赋值](https://github.com/aurora-byte-x/JavaSE/blob/main/document/11_继承.md#问题如何为父类中的private的成员变量赋值)
+- [问题如何为父类中的private的成员变量赋值](https://github.com/aurora-byte-x/JavaSE/blob/main/document/11_继承.md#问题如何为父类中的private的成员变量赋值)
 
 </details>
 
