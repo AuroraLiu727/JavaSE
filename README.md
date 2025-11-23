@@ -310,11 +310,6 @@
 
 - [需求](https://github.com/aurora-byte-x/JavaSE/blob/main/document/16_接口和多态综合案例.md#需求)
 - [代码实现](https://github.com/aurora-byte-x/JavaSE/blob/main/document/16_接口和多态综合案例.md#代码实现)
-  - [USB 接口](https://github.com/aurora-byte-x/JavaSE/blob/main/document/16_接口和多态综合案例.md#usb)
-  - [鼠标类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/16_接口和多态综合案例.md#mouse)
-  - [键盘类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/16_接口和多态综合案例.md#keyboard)
-  - [笔记本类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/16_接口和多态综合案例.md#laptop)
-  - [测试类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/16_接口和多态综合案例.md#test)
 
 </details>
 
@@ -324,10 +319,10 @@
 
 - [四种权限修饰符的权限范围](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#四种权限修饰符的权限范围)
 - [四种权限修饰符](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#四种权限修饰符)
-  - [public](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#public公共的)
-  - [protected](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#proteted受保护的)
-  - [默认权限](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#默认)
-  - [private](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#private私有的)
+  - [public公共的](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#public公共的)
+  - [proteted受保护的](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#proteted受保护的)
+  - [默认](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#默认)
+  - [private私有的](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#private私有的)
 
 - [final关键字](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#final关键字)
   - [final 修饰类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#final修饰类)
@@ -335,7 +330,7 @@
   - [final 修饰局部变量](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#final修饰局部变量)
   - [final 修饰成员变量](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#final修饰成员变量)
   - [final 修饰对象](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#final修饰对象)
-  - [final 方法参数](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#final修饰方法参数)
+  - [final修饰方法参数](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#final修饰方法参数)
 
 - [代码块](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#代码块)
   - [普通代码块](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#普通代码块)
@@ -352,16 +347,16 @@
 - [静态成员内部类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#静态成员内部类)
 - [非静态成员内部类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#非静态成员内部类)
 - [局部内部类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#局部内部类)
-  - [作为实现类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#局部内部类作为实现类)
-  - [作为继承抽象类子类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#局部内部类作为子类继承抽象类)
+  - [局部内部类作为实现类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#局部内部类作为实现类)
+  - [局部内部类作为子类继承抽象类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#局部内部类作为子类继承抽象类)
 
 - [匿名内部类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#匿名内部类)
-  - [实现接口](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#匿名内部类实现接口)
-  - [继承抽象类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#匿名内部类作为子类继承抽象类)
-  - [参数传递](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#匿名内部类当参数传递实现接口)
+  - [匿名内部类实现接口](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#匿名内部类实现接口)
+  - [匿名内部类作为子类继承抽象类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#匿名内部类作为子类继承抽象类)
+  - [匿名内部类当参数传递实现接口](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#匿名内部类当参数传递实现接口)
   - [返回值](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#匿名内部类作为返回值返回实现接口)
 
-- [补充知识](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#补充知识)
+- [匿名内部类作为返回值返回实现接口](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#补充知识)
 
 </details>
 
@@ -379,14 +374,14 @@
 
 - [异常的概念](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#异常的概念)
 - [常见异常](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#常见的异常)
-  - [运行时异常](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#常见的运行时异常)
-  - [编译时异常](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#常见的编译时异常)
+  - [常见的运行时异常](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#常见的运行时异常)
+  - [常见的编译时异常](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#常见的编译时异常)
 
 - [异常处理方式](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#异常处理i方式)
-  - [try...catch](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#使用trycatch捕获异常)
-  - [throws](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#使用throws处理异常)
-  - [异常传递](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#异常的传递逐层上抛)
-  - [try...catch...finally](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#使用trycatchfinally处理异常)
+  - [使用trycatch捕获异常](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#使用trycatch捕获异常)
+  - [使用throws处理异常](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#使用throws处理异常)
+  - [异常的传递逐层上抛](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#异常的传递逐层上抛)
+  - [使用trycatchfinally处理异常](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#使用trycatchfinally处理异常)
 
 - [自定义异常](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#自定义异常)
 
@@ -412,16 +407,16 @@
 - [枚举](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#枚举)
   - [自定义实现枚举](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#自定义实现枚举)
   - [enum 关键字实现枚举](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#enum关键字实现枚举)
-  - [enum 本质](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#enum枚举的本质)
+  - [enum枚举的本质](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#enum枚举的本质)
   - [enum 常用方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#enum常用方法)
   - [enum 实现接口](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#enum实现接口)
 
 - [注解（Annotation）](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#注解annotation)
-  - [基本注解](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#基本的annotation介绍)
+  - [基本的annotation介绍](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#基本的annotation介绍)
   - [Override](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#override)
   - [Deprecated](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#deprecated)
   - [SuppressWarnings](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#suppresswarning)
-  - [元注解（Meta Annotation）](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#jdk的元annotation元注解)
+  - [jdk的元annotation元注解](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#jdk的元annotation元注解)
 
 </details>
 
@@ -430,45 +425,45 @@
 <summary>23_常用类</summary>
 
 - [包装类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#包装类)
-  - [包装类介绍](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#包装类的介绍)
-  - [包装类分类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#包装类的分类)
-  - [包装类与基本类型转换](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#包装类和基本数据的转换)
-  - [包装类与 String 转换](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#包装类型和string类型的相互转换)
-  - [Integer/Character 常用方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#integer类和character类的常用方法)
+  - [包装类的介绍](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#包装类的介绍)
+  - [包装类的分类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#包装类的分类)
+  - [包装类和基本数据的转换](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#包装类和基本数据的转换)
+  - [包装类型和string类型的相互转换](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#包装类型和string类型的相互转换)
+  - [integer类和character类的常用方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#integer类和character类的常用方法)
   - [Integer 经典面试题](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#integer经典面试题)
 
 - [String 类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#string类)
   - [String 类介绍](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#string类介绍)
-  - [构造方式](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#创建string对象的方式)
-  - [字符串特性](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#字符串的特性)
-  - [String 常见方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#string类的常见方法)
+  - [创建string对象的方式](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#创建string对象的方式)
+  - [字符串的特性](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#字符串的特性)
+  - [string类的常见方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#string类的常见方法)
 
 - [StringBuffer 类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#stringbuffer类)
   - [基本介绍](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#基本介绍)
   - [String vs StringBuffer](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#string-vs-stringbuffer)
-  - [构造器](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#stringbuffer的构造器)
-  - [String ↔ StringBuffer 转换](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#string和stringbuffer相互转换)
-  - [常见方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#stringbuffer类常见方法)
+  - [stringbuffer的构造器](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#stringbuffer的构造器)
+  - [string和stringbuffer相互转换](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#string和stringbuffer相互转换)
+  - [stringbuffer类常见方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#stringbuffer类常见方法)
 
 - [StringBuilder 类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#stringbuilder类)
-  - [基本介绍](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#基本介绍-1)
-  - [与 StringBuffer 区别](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#stringstringbufferstringbuilder的比较)
+  - [基本介绍](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#基本介绍)
+  - [stringstringbufferstringbuilder的比较](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#stringstringbufferstringbuilder的比较)
 
 - [Math 类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#math类)
-  - [常见方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#方法一览均为静态方法)
-  - [使用示例](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#math类常见方法使用案例)
+  - [方法一览（均为静态方法）](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#方法一览均为静态方法)
+  - [math类常见方法使用案例](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#math类常见方法使用案例)
 
 - [Arrays 类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#arrays类)
-  - [常见方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#方法一览)
+  - [方法一览](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#方法一览)
   - [自然排序](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#自然排序)
   - [定制排序 Comparator](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#定制排序)
 
 - [System 类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#system类)
-  - [常见方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#system的常见方法)
+  - [system的常见方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#system的常见方法)
 
-- [BigInteger & BigDecimal](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#biginteger和bigdecimal类)
+- [biginteger和bigdecimal类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#biginteger和bigdecimal类)
   - [构造方式](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#构造方式)
-  - [常见方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#常见方法及使用示例)
+  - [常见方法及使用示例](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#常见方法及使用示例)
 
 - [日期类](https://github.com/github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#日期类)
   - [第一代 Date](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#第一代日期类)
