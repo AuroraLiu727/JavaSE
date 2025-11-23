@@ -1,0 +1,17 @@
+package com.aurora.Array;
+
+public class ArrayDemo13 {
+    /*
+        二维数组遍历
+     */
+    public static void main(String[] args) {
+        int[][] arr = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+
+        //遍历二维数组
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = 0; j < arr[i].length; j++) {
+                System.out.print(arr[i][j] + " ");
+            }
+        }
+    }
+}
